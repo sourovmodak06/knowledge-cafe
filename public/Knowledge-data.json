@@ -1,0 +1,92 @@
+[
+    {
+        "id": "01",
+        "authorName": "Josep Ferrer",
+        "blogTitle": "6 ChatGPT mind-blowing extensions to use it anywhere",
+        "blogCoverImage": "https://images.unsplash.com/photo-1677696797025-e6a40f6c714d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+        "readTime": 4,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "02",
+        "authorName": "Somnath Singh",
+        "blogTitle": "How to get your first job as a self-taught programmer",
+        "blogCoverImage": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+        "readTime": 7,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "03",
+        "authorName": "Jacob Bennett",
+        "blogTitle": "Use Git like a senior engineer",
+        "blogCoverImage": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+        "readTime": 4,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "04",
+        "authorName": "Anmol Tomar",
+        "blogTitle": "Say Goodbye to Loops in Python, and Welcome Vectorization!",
+        "blogCoverImage": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "readTime": 5,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "05",
+        "authorName": "Ali Haider",
+        "blogTitle": "17 Killer GitHub Repos You Need to Save Right Now!",
+        "blogCoverImage": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "readTime": 6,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "06",
+        "authorName": "Vijini Mallawaarachchi",
+        "blogTitle": "10 Common Software Architectural Patterns in a nutshell",
+        "blogCoverImage": "https://images.unsplash.com/photo-1580983559367-0dc2f8934365?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1548449112-96a38a643324?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "readTime": 5,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "07",
+        "authorName": "Darshak Rana",
+        "blogTitle": "20 Googling Tricks 99% of People Don't Know About",
+        "blogCoverImage": "https://images.unsplash.com/photo-1594663653925-365bcbf7ef86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "readTime": 7,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "08",
+        "authorName": "Ben Hosking",
+        "blogTitle": "The Difference Between The Clever Developer & The Wise Developer",
+        "blogCoverImage": "https://images.unsplash.com/photo-1573495612890-430e48b164df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "readTime": 3,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "09",
+        "authorName": "Francisco Sainz",
+        "blogTitle": "Stop Using JSON Web Tokens For Authentication. Use Stateful Sessions Instead",
+        "blogCoverImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+        "readTime": 3,
+        "publishDate": "Mar 30 (2 Days ago)"
+    },
+    {
+        "id": "10",
+        "authorName": "Noor Ahmed",
+        "blogTitle": "3 Design Patterns Every Developer Should Learn",
+        "blogCoverImage": "https://images.unsplash.com/photo-1655635949212-1d8f4f103ea1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+        "authorImage": "https://images.unsplash.com/photo-1624140716840-5d89f311f500?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "readTime": 8,
+        "publishDate": "Mar 30 (2 Days ago)"
+    }
+]
