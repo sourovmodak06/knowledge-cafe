@@ -37,7 +37,7 @@ const Main = () => {
         <ToastContainer />
       </div>
       <div className="md:my-8 md:ml-5">
-        <div className="sticky md:top-20">
+        <div className="sticky md:top-28">
           <ReadTime timeCount={timeCount}></ReadTime>
           <Bookmark bookmarks={bookmarks}></Bookmark>
         </div>
