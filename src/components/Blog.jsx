@@ -7,6 +7,8 @@ const Blog = (props) => {
 
     const readsTime = props.readsTime;
 
+    const bookmarkedBlogs = props.bookmarkedBlogs;
+
     return (
         <div className='my-8 md:w-[845px]'>
             <img src={blogCoverImage} alt="Blog cover images" className='md:h-[450px] w-[845px] rounded-xl'/>
@@ -20,7 +22,9 @@ const Blog = (props) => {
                 </div>
                 <div className='flex justify-between items-center'>
                     <h3 className='text-xl font-medium text-[#11111199] mr-2'>{readTime} min read</h3>
-                    <FontAwesomeIcon icon={faBookmark} />
+                    <button  onClick={() => bookmarkedBlogs(props.blog)}>
+                        <FontAwesomeIcon icon={faBookmark}/>
+                    </button>
                 </div>
             </div>
             <h3 className='text-3xl font-bold my-4'>{blogTitle}</h3>
