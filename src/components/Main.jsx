@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import Blog from "./Blog";
 import Bookmark from "./Bookmark";
 import ReadTime from "./ReadTime";
+import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
 const Main = () => {
   const [blogs, setBlogs] = useState([]);
@@ -22,14 +24,17 @@ const Main = () => {
   const bookmarkedBlogs = (bookmark) =>{
       const bookmarkItem = [...bookmarks, bookmark];
       setBookmarks(bookmarkItem);
+      toast.success("You Have Already Bookmarked This Blog");
   }
 
   return (
     <div className="flex justify-between flex-col md:flex-row">
       <div>
         {blogs.map((blog) => (
-          <Blog blog={blog} key={blog.id} readsTime={readsTime} bookmarkedBlogs={bookmarkedBlogs}></Blog>
+          <Blog blog={blog} key={blog.id} readsTime={readsTime} bookmarkedBlogs={bookmarkedBlogs}>
+          </Blog>
         ))}
+        <ToastContainer />
       </div>
       <div className="md:my-8">
         <div className="sticky md:top-20">
