@@ -24,7 +24,7 @@ const Main = () => {
   const bookmarkedBlogs = (bookmark) =>{
       const bookmarkItem = [...bookmarks, bookmark];
       setBookmarks(bookmarkItem);
-      toast.success("You Have Already Bookmarked This Blog");
+      toast.success("You Have Bookmarked This Blog");
   }
 
   return (
@@ -36,7 +36,7 @@ const Main = () => {
         ))}
         <ToastContainer />
       </div>
-      <div className="md:my-8">
+      <div className="md:my-8 md:ml-5">
         <div className="sticky md:top-20">
           <ReadTime timeCount={timeCount}></ReadTime>
           <Bookmark bookmarks={bookmarks}></Bookmark>

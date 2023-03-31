@@ -8,10 +8,8 @@ const Bookmark = ({ bookmarks }) => {
         Bookmarked Blogs : {bookmarks.length}
       </h3>
       <div className="pb-5">
-        {/* {bookmarks.map((item) => <h2 
-        className="bg-white my-4 mx-7 font-semibold text-lg p-5 rounded-xl"
-        >{item.blogTitle}</h2>)} */}
         {bookmarks.map((item) => <h2 
+        key={item.id}
         className="bg-white my-4 mx-7 font-semibold text-lg p-5 rounded-xl"
         >{item.blogTitle}</h2>)}
       </div>
